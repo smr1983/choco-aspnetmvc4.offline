@@ -1,0 +1,6 @@
+﻿VERIFICATION
+Verification is intended to assist the Chocolatey moderators and community
+in verifying that this package's contents are trustworthy.
+ 
+Source: https://www.microsoft.com/en-US/download/details.aspx?id=30683 (English)
+SHA-256: 66DBB6573AB653F8A722821155E9572DB42226E8D187FD4A814F101D8BCBA67E
